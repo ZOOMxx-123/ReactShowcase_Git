@@ -27,12 +27,3 @@ npm run ZOOMxx
 ## 👤 Auteur
 
 Projet développé par **ZOOMxx**.
-
-
-
-
-
-
-
-
-npm run ZOOMxx
