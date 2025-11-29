@@ -16,12 +16,12 @@ Un petit projet React qui montre comment utiliser l'état (useState) pour affich
 
 ## 📂 Structure du projet
 
-src/
-├── assets/
-│ └── logo.png
-├── App.jsx
-├── App.css
-└── main.jsx
+-src/
+-├── assets/
+-│ └── logo.png
+-├── App.jsx
+-├── App.css
+-└── main.jsx
 
 
 
