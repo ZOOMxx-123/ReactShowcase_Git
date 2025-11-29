@@ -14,14 +14,19 @@ Un petit projet React qui montre comment utiliser l'état (useState) pour affich
 - Bootstrap
 - CSS personnalisé
 
-## 📂 Structure du projet
+---
 
-src/
-├── assets/
-│ └── logo.png
-├── App.jsx
-├── App.css
-└── main.jsx
+## ▶️ Lancer le projet
+
+```
+npm run ZOOMxx
+```
+
+---
+
+## 👤 Auteur
+
+Projet développé par **ZOOMxx**.
 
 
 
